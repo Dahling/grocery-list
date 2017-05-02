@@ -15,8 +15,8 @@ $(function(){
 
     var sortedArray = displayItems.sort();
 
-    sortedArray.forEach(function(nana) {
-      $("ul").append("<li>" + nana.toUpperCase() + "</li>");
+    sortedArray.forEach(function(groceries) {
+      $("ul").append("<li>" + groceries.toUpperCase() + "</li>");
     });
 
   });

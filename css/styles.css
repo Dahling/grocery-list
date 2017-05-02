@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/apples.jpg");
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 100px;
+}
+
+.form {
+  text-align: center;
+  text-transform: uppercase;
+}
